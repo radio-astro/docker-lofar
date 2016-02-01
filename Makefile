@@ -1,4 +1,4 @@
-DOCKER_REPO=radioastro/lofar:2.12.1
+DOCKER_REPO=radioastro/lofar:2.15.0
 
 .PHONY: build clean
 
